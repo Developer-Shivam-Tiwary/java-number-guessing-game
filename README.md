@@ -6,7 +6,10 @@ This project is part of my **Practicing Problem-Solving & Logic Building** serie
 
 ## 🚀 Live Demo
 
-▶️ **[Run on JDoodle]([https://www.jdoodle.com/](https://www.jdoodle.com/ia/1WMe))**
+👉 **Run the project online:** [https://www.jdoodle.com/ia/1UwZ](https://www.jdoodle.com/ia/1WMf) 
+
+[![Run on JDoodle](https://img.shields.io/badge/Run%20on-JDoodle-orange?style=for-the-badge)](https://www.jdoodle.com/ia/1WMf)
+
 
 ## ✨ Features
 
